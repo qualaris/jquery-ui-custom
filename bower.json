@@ -1,0 +1,8 @@
+{
+  "name": "jquery-ui-custom",
+  "version": "1.10.1",
+  "main": ["./js/jquery-ui-1.10.1.custom.min.js", "./css/flick/jquery-ui-1.10.1.custom.min.css"],
+  "dependencies": {
+    "jquery": ">=1.9.1 <2.1.0"
+  }
+}
